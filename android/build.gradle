@@ -29,7 +29,7 @@ android {
       namespace 'xyz.canardoux.fluttersound'
     }    
     
-    compileSdkVersion 35
+    compileSdkVersion 34
     buildToolsVersion "35.0.0"
 
     defaultConfig {
